@@ -1,0 +1,27 @@
+{
+  "name": "yandex_passport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinero-s/Yandex_Passport.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dinero-s/Yandex_Passport/issues"
+  },
+  "homepage": "https://github.com/dinero-s/Yandex_Passport#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-session": "^1.18.1",
+    "passport": "^0.7.0",
+    "passport-yandex": "^0.0.5"
+  }
+}
